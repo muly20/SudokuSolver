@@ -113,8 +113,6 @@ class CSP:
                     self.binaryFactors[var1][var2][v1][v2] *= table[v1][v2]
 
 ##############################################################################
-
-
 class Backtracking:
     """
     A backtracking algorithm for solving weighted CSP.
