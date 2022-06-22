@@ -7,7 +7,7 @@ Also implemented Most Constraint Variable heuristic as well as AC-3 algorithm (A
 
 An initial Sudoku grid is given by a text file containing a signle integer representing the grid size (needs to be a square of an integer) followed by several lines each containing three space-separated integers, with the first two representing the 2D location of the cell and the third representing the cell's value. Each of the three integers needs to be in the inclusive range of 1 and grid_size.
 
-command line arguments:
+Command line arguments:
 
 	-m / --mcv False: for disabling mcv heuristic
 	-a / --ac3 False: for disabeling arc-consistency check
