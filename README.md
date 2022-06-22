@@ -9,7 +9,7 @@ An initial Sudoku grid is given by a text file containing a signle integer repre
 
 Command line arguments:
 
-	-m / --mcv False: for disabling mcv heuristic
+	-m / --mcv False: for disabeling mcv heuristic
 	-a / --ac3 False: for disabeling arc-consistency check
 
 Usage:
