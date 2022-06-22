@@ -10,6 +10,7 @@ An initial Sudoku grid is given by a text file containing a signle integer repre
 command line arguments:
 -m / --mcv False: for disabling mcv heuristic
 -a / --ac3 False: for disabeling arc-consistency check
+
 Usage:
 python main.py sudoku3.txt
 python main.py sudoku3.txt -m False -a False
